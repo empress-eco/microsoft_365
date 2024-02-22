@@ -1,11 +1,13 @@
 <div align="center">
     <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" height="128">
     <h2>Empress Technologies</h2>
-</div>
 
 Microsoft 365 Integration is a robust tool that revolutionizes collaboration and data management for teams and businesses. Seamlessly create, manage, and interact with Microsoft 365 Groups straight from your application. This integration elevates productivity and provides a unified platform for all your operational and collaborative requirements.
 
 [Explore the Docs](https://grow.empress.eco/) · [Report Bug](https://github.com/empress-eco/microsoft_365/issues) · [Request Feature](https://github.com/empress-eco/microsoft_365/issues)
+</div>
+
+
 
 ## About the Project
 
